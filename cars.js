@@ -14,7 +14,7 @@
      }
  }
 
- //let myVehicle = new Vehicle('VW', 'Gold', 2008);
+ //let myVehicle = new Vehicle('Nissan', 'Qashqai', 2008);
  //let info = myVehicle.Information();
 
  class Cars extends Vehicle
